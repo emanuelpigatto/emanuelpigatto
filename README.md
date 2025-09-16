@@ -45,7 +45,7 @@
 - 🌐 Desenvolvimento Web (HTML, CSS, JS): **60%**  
 - 🐍 Python: **70%**  
 - ☕ Java: **50%** (aprofundando em Estruturas de Dados e Algoritmos)
-- 🖥️ TypeScript **80** 
+- 🖥️ TypeScript **80%** 
 - 🛠️ Git/GitHub: **60%**  
 
 ---
